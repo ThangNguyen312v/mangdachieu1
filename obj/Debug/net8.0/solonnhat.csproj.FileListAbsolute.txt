@@ -1,0 +1,14 @@
+E:\hoctap\solonnhat\bin\Debug\net8.0\solonnhat.exe
+E:\hoctap\solonnhat\bin\Debug\net8.0\solonnhat.deps.json
+E:\hoctap\solonnhat\bin\Debug\net8.0\solonnhat.runtimeconfig.json
+E:\hoctap\solonnhat\bin\Debug\net8.0\solonnhat.dll
+E:\hoctap\solonnhat\bin\Debug\net8.0\solonnhat.pdb
+E:\hoctap\solonnhat\obj\Debug\net8.0\solonnhat.GeneratedMSBuildEditorConfig.editorconfig
+E:\hoctap\solonnhat\obj\Debug\net8.0\solonnhat.AssemblyInfoInputs.cache
+E:\hoctap\solonnhat\obj\Debug\net8.0\solonnhat.AssemblyInfo.cs
+E:\hoctap\solonnhat\obj\Debug\net8.0\solonnhat.csproj.CoreCompileInputs.cache
+E:\hoctap\solonnhat\obj\Debug\net8.0\solonnhat.dll
+E:\hoctap\solonnhat\obj\Debug\net8.0\refint\solonnhat.dll
+E:\hoctap\solonnhat\obj\Debug\net8.0\solonnhat.pdb
+E:\hoctap\solonnhat\obj\Debug\net8.0\solonnhat.genruntimeconfig.cache
+E:\hoctap\solonnhat\obj\Debug\net8.0\ref\solonnhat.dll
